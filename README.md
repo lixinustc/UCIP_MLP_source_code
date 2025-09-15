@@ -23,6 +23,22 @@
 
 ### Prepare environment
 
+The CUDA driver must be higher than 11.6 
+
+- Ubuntu 20.04
+- CUDA 11.8
+- Python 3.9
+- PyTorch 2.1.1 + cu118
+
+1: First install Pytorch (2.1.1+cu118) as following command:
+
+```
+pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu118
+```
+2: Install other requiremnets:
+```
+pip install -r requirements.txt
+```
 
 ## Cite US
 Please cite us if this work is helpful to you.
