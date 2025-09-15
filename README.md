@@ -1,4 +1,4 @@
-# UCIP_MLP_source_code
+# source_code
 
 # UCIP: A Universal Framework for Compressed Image Super-Resolution using Dynamic Prompt (ECCV2024)
 
