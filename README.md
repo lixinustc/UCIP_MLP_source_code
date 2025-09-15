@@ -1,7 +1,4 @@
 # UCIP_MLP_source_code
-<p align="center">
-  <img src="./figs/UCIP.png" alt="image" style="width:1000px;">
-</p>
 
 # UCIP: A Universal Framework for Compressed Image Super-Resolution using Dynamic Prompt (ECCV2024)
 
